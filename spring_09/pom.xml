@@ -84,7 +84,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.40</version>
+			<version>8.0.16</version>
 		</dependency>
 		<!-- 加入数据源-DBCP2的依赖 -->
 		<dependency>
